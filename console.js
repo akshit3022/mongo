@@ -8,3 +8,7 @@
 
 // mongodump --version
 // mongorestore --version
+
+
+// mongodump --uri="your_old_url"
+// mongorestore --uri="mongodb+srv://akshit:dbAks1199@cluster0-aks.t4vcztu.mongodb.net/?appName=Cluster0-Aks" dump/
